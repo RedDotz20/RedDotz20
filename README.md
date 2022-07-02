@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Carlos Tabangay</h1>
 <h3 align="center">I'm a passionate front-end developer</h3>
 
----
-
 <a href="https://app.daily.dev/RedDotz"><img align="right" src="https://api.daily.dev/devcards/ceaaf22b68fa4026a2861923baa12f42.png?r=flo" width="280px" alt="Carlos Tabangay's Dev Card"/></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reddotz20&label=Profile%20views&color=0e75b6&style=flat" alt="reddotz20" /> </p>
