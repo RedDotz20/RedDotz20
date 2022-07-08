@@ -34,9 +34,9 @@
 
 ---
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=reddotz20&show_icons=true&locale=en&theme=highcontrast" width="500" alt="reddotz20" /></p>
-
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=reddotz20&theme=highcontrast" width="500" alt="reddotz20" /></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=reddotz20&show_icons=true&locale=en&theme=highcontrast" width="500" alt="reddotz20" /></p>
 
 <p align="center" padding-top="3px"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=reddotz20&show_icons=true&locale=en&layout=compact&theme=highcontrast" width="500" alt="reddotz20" /></p>
 
