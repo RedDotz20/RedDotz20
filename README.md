@@ -9,7 +9,7 @@
 
 -   💬 Ask me about **HTML, CSS, JavaScript**
 
--   📫 How to reach me **RedDotz20@protonmail.com**
+-   📫 How to reach me **carlos_tabangay@outlook.com**
 
 -   ⚡ Fun fact: My Personality Type is **_INFJ_**.
 
