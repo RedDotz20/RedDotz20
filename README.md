@@ -4,7 +4,7 @@
 
 <a href="https://app.daily.dev/RedDotz"><img align="right" src="https://api.daily.dev/devcards/ceaaf22b68fa4026a2861923baa12f42.png?r=flo" width="280px" alt="Carlos Tabangay's Dev Card"/></a>
 
-### I'm a Computer Science student and self-taught developer.
+<h3>I'm a Computer Science student and self-taught developer.</h3>
 
 -   ⚒ I’m currently working on my **Front-End Skills**.
 -   🌱 I’m currently learning everything. 🤣
