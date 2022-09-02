@@ -53,7 +53,7 @@
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="500" src="https://github-profile-trophy.vercel.app/?username=reddotz20&theme=juicyfresh&no-frame=true&row=2&column=3" alt="reddotz20" />
+    <img width="45%" src="https://github-profile-trophy.vercel.app/?username=reddotz20&theme=juicyfresh&no-frame=true&row=2&column=3" alt="reddotz20" />
   </a>
 </p>
 
