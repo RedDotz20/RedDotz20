@@ -16,21 +16,36 @@
 
 ### 📫 How to reach me: **carlos_tabangay@outlook.com**
 
-### Connect with me:
+### 🌐 Connect with me:
 
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/carlos-tabangay/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/carlos-tabangay/" height="30" width="40" /></a>
+<!-- <a href="https://linkedin.com/in/https://www.linkedin.com/in/carlos-tabangay/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/carlos-tabangay/" height="30" width="40" /></a>
 <a href="https://twitter.com/carlos_tabangay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="carlos_tabangay" height="30" width="40" /></a>
-<a href="https://instagram.com/carlos_tabangay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="carlos_tabangay" height="30" width="40" /></a>
+<a href="https://instagram.com/carlos_tabangay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="carlos_tabangay" height="30" width="40" /></a> -->
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-tabangay/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/carlos_tabangay)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/carlos_tabangay)
 
-### Languages and Tools:
+  
+
+### 💻 Languages and Tools:
+  
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
+[![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
+[![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blu)]()
+
+  
 
 <p align="left"> 
-<a href="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
+<!-- <a href="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303206/javascript-logo.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  -->
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src= "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="40" height="40"/> </a>
 <a href=["https://git-scm.com/](https://code.visualstudio.com/)" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vs-code" width="40" height="40"/> </a>
@@ -47,9 +62,9 @@
 
 <p align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=reddotz20&show_icons=true&locale=en&layout=compact&theme=highcontrast"  alt="reddotz20" />
-  <img width="56%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reddotz20&theme=github_dark"  alt="reddotz20" />
+  <img width="56%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reddotz20&theme=github_dark" alt="reddotz20" />
 </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reddotz20&theme=juicyfresh&no-frame=true&row=2&column=3" width="500" alt="reddotz20" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="500" src="https://github-profile-trophy.vercel.app/?username=reddotz20&theme=juicyfresh&no-frame=true&row=2&column=3" alt="reddotz20" /></a> </p>
 
 
