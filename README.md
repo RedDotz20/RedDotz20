@@ -31,11 +31,6 @@
 <a href="https://www.adobe.com/ph_en/products/photoshop.html?sdid=G4FRYR56&mv=search&ef_id=CjwKCAjwsMGYBhAEEiwAGUXJaePR7y1gG0IpgXnEpbejyqUMAwCFj1oZ_VgN7asLKuqjPGZ45QKZqxoChBAQAvD_BwE:G:s&s_kwcid=AL!3085!3!472536504128!e!!g!!adobe%20ps!11352921013!109631795205" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="photoshop" width="40" height="40"/> </a>
 </p>
 
-https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg
-
-https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg
-
-
 ---
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=reddotz20&theme=highcontrast" width="500" alt="reddotz20" /></p>
