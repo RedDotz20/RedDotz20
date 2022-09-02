@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reddotz20&label=Profile%20views&color=0e75b6&style=flat" alt="reddotz20" width="120px"/> </p>
 
-<a href="https://app.daily.dev/RedDotz"><img align="right" src="https://api.daily.dev/devcards/ceaaf22b68fa4026a2861923baa12f42.png?r=flo" width="280px" alt="Carlos Tabangay's Dev Card"/></a>
+<a href="https://app.daily.dev/RedDotz"><img align="right" src="https://api.daily.dev/devcards/ceaaf22b68fa4026a2861923baa12f42.png?r=flo" width="30%" alt="Carlos Tabangay's Dev Card"/></a>
 
 <h3>I'm a Computer Science student and self-taught developer.</h3>
 
@@ -40,13 +40,15 @@
 
 ---
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=reddotz20&theme=highcontrast" width="500" alt="reddotz20" /></p>
+<p align="center">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=reddotz20&theme=highcontrast"  alt="reddotz20" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=reddotz20&show_icons=true&locale=en&theme=highcontrast"  alt="reddotz20" />
+</p>
 
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=reddotz20&show_icons=true&locale=en&theme=highcontrast" width="500" alt="reddotz20" /></p>
-
-<p align="center" padding-top="3px"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=reddotz20&show_icons=true&locale=en&layout=compact&theme=highcontrast" width="500" alt="reddotz20" /></p>
-
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=reddotz20&show_icons=true&locale=en&layout=compact&theme=highcontrast"  alt="reddotz20" />
+  <img width="56%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reddotz20&theme=github_dark"  alt="reddotz20" />
+</p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reddotz20&theme=juicyfresh&no-frame=true&row=2&column=3" width="500" alt="reddotz20" /></a> </p>
 
