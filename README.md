@@ -14,15 +14,15 @@
 -   🎯 Current Goal: Mastering JavaScript.
 -   ⚡ Fun fact: My Personality Type is **_INFJ_**.
 
-##### 📫 How to reach me: **carlos_tabangay@outlook.com**
+#### 📫 How to reach me: **carlos_tabangay@outlook.com**
 
-#### 🌐 Connect with me:
+### 🌐 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-tabangay/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/carlos_tabangay)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/carlos_tabangay)
 
-#### 💻 Languages and Tools:
+### 💻 Languages and Tools:
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
@@ -46,17 +46,9 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
   <img alt="vs-code" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />
 </a>&nbsp;&nbsp;
-<a href="https://www.adobe.com/ph_en/products/premiere.html?sdid=G85SYMF5&mv=search&ef_id=CjwKCAjwsMGYBhAEEiwAGUXJafRgahMtnSDYOT51IvkbUl9Ye0iqYr5KrImkFpZmWtTo5ifdz8rlIxoCEIoQAvD_BwE:G:s&s_kwcid=AL!3085!3!424944260635!e!!g!!adobe%20premiere%20pro!703953060!38400846858" target="_blank" rel="noreferrer"> 
-  <img alt="premiere-pro" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" />
-</a>&nbsp;&nbsp;
 <a href="https://www.adobe.com/ph_en/products/photoshop.html?sdid=G4FRYR56&mv=search&ef_id=CjwKCAjwsMGYBhAEEiwAGUXJaePR7y1gG0IpgXnEpbejyqUMAwCFj1oZ_VgN7asLKuqjPGZ45QKZqxoChBAQAvD_BwE:G:s&s_kwcid=AL!3085!3!472536504128!e!!g!!adobe%20ps!11352921013!109631795205" target="_blank" rel="noreferrer">   
   <img alt="photoshop" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg"/>
 </a>&nbsp;&nbsp;
-<a href="https://www.canva.com/" target="_blank" rel="noreferrer"> 
-  <img alt="canva" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" /> &nbsp;&nbsp;
-<a href="https://trello.com/" target="_blank" rel="noreferrer"> 
-  <img alt="canva" width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/trello.svg" /> &nbsp;&nbsp;
-</p>
 
 ---
 
