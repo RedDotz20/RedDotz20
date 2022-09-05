@@ -1,6 +1,5 @@
-![Alt text](./images/banner.jpg?raw=true "banner")
-
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="carlos_tabangay" height="50" width="50" />, I'm Carlos Tabangay - aka RedDotz</br><h3 align="center">Aspiring Front-End Developer</h3></h1>
+<img alt="banner" align="center" width="100%" height="40%" src="./images/banner.jpg" />
+<h1 align="center">Hi there 👋, I'm Carlos Tabangay - aka RedDotz</br><h3 align="center">Aspiring Front-End Developer</h3></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reddotz20&label=Profile%20views&color=0e75b6&style=flat" alt="reddotz20" width="120px"/> </p>
 
@@ -71,3 +70,5 @@
 </p>
 
 ---
+
+<!-- <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="carlos_tabangay" height="50" width="50" /> -->
