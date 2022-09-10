@@ -31,11 +31,12 @@
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.w3schools.com/cpp/)
 [![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blu)](https://www.python.org)
 
-
-
 <p align="left"> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
   <img alt="react" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" /> 
+</a>&nbsp;&nbsp;
+<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> 
+  <img alt="react" width="40" height="40" src="https://vitejs.dev/logo-with-shadow.png" /> 
 </a>&nbsp;&nbsp;
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
   <img alt="tailwind" width="40" height="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" /> 
