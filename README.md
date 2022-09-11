@@ -76,5 +76,3 @@
 </p>
 
 ---
-
-<!-- <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="carlos_tabangay" height="50" width="50" /> -->
