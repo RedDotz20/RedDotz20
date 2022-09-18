@@ -44,6 +44,9 @@
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
   <img alt="sass" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" /> 
 </a>&nbsp;&nbsp;
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> 
+  <img alt="sass" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" /> 
+</a>&nbsp;&nbsp;
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
   <img alt="figma" width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg">
 </a>&nbsp;&nbsp;
