@@ -8,11 +8,11 @@
 ### I'm a Computer Science student and self-taught developer.
 
 -   ⚒ I’m currently working on my **Front-End Skills**.
--   🌱 I’m currently learning everything. 🤣
+-   🌱 I’m currently learning React JS.
 -   💬 Ask me about **HTML, CSS, JavaScript**.
 -   🤝 Looking forward to collaborate with other projects.
 -   🤔 I’m looking for help with React JS.
--   🎯 Current Goal: Mastering JavaScript.
+-   🎯 Current Goal: Master JavaScript
 -   ⚡ Fun fact: My Personality Type is **_INFJ_**.
 
 #### 📫 How to reach me: **carlos_tabangay@outlook.com**
