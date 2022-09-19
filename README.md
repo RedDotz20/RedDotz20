@@ -13,7 +13,7 @@
 -   🤝 Looking forward to collaborate with other projects.
 -   🤔 I’m looking for help with React JS.
 -   🎯 Current Goal: Master JavaScript
--   ⚡ Fun fact: My Personality Type is **_INFJ_**.
+-   ⚡ Fun fact: My Personality Type is **_INFP_**.
 
 #### 📫 How to reach me: **carlos_tabangay@outlook.com**
 
