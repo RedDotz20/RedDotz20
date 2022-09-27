@@ -53,6 +53,9 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
   <img alt="figma" width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg">
 </a>&nbsp;&nbsp;
+<a href="https://jestjs.io/" target="_blank" rel="noreferrer">
+  <img alt="jest" width="40" height="40" src="https://cdn.iconscout.com/icon/free/png-256/jest-3521517-2945020.png">
+</a>&nbsp;&nbsp;
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   <img alt="git" width="40" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 </a>&nbsp;&nbsp;
