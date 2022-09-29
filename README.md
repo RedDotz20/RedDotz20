@@ -1,4 +1,4 @@
-<img alt="banner" align="center" width="100%" height="40%" src="./images/banner.jpg" />
+[comment]: <img alt="banner" align="center" width="100%" height="40%" src="./images/banner.jpg" />
 <h1 align="center">Hi there 👋, I'm Carlos Tabangay - aka RedDotz</br><h3 align="center">Aspiring Front-End Developer</h3></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reddotz20&label=Profile%20views&color=0e75b6&style=flat" alt="reddotz20" width="120px"/> </p>
