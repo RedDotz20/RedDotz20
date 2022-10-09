@@ -76,7 +76,7 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=reddotz20&show_icons=true&locale=en&theme=highcontrast"  alt="reddotz20" />
 </p>
 
-[![RedDotz20's github activity graph](https://activity-graph.herokuapp.com/graph?username=Reddotz20&theme=high-contrast&title_color=yellow)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![RedDotz20's github activity graph](https://activity-graph.herokuapp.com/graph?username=Reddotz20&theme=high-contrast&title_color=f6ff00&point=04ff00)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=reddotz20&show_icons=true&locale=en&layout=compact&theme=highcontrast"  alt="reddotz20" />&nbsp;&nbsp;
