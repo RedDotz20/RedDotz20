@@ -76,7 +76,7 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=reddotz20&show_icons=true&locale=en&theme=highcontrast"  alt="reddotz20" />
 </p>
 
-<a href="http://www.github.com/Reddotz20"><img src="https://activity-graph.herokuapp.com/graph?username=Reddotz20&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph&theme=merko" alt="GitHub Commits Graph" /></a>
+[![RedDotz20's github activity graph](https://activity-graph.herokuapp.com/graph?username=Reddotz20&theme=high-contrast&title_color=yellow)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=reddotz20&show_icons=true&locale=en&layout=compact&theme=highcontrast"  alt="reddotz20" />&nbsp;&nbsp;
