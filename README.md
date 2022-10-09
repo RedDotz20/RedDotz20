@@ -76,6 +76,8 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=reddotz20&show_icons=true&locale=en&theme=highcontrast"  alt="reddotz20" />
 </p>
 
+<a href="http://www.github.com/Reddotz20"><img src="https://activity-graph.herokuapp.com/graph?username=Reddotz20&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph&theme=merko" alt="GitHub Commits Graph" /></a>
+
 <p align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=reddotz20&show_icons=true&locale=en&layout=compact&theme=highcontrast"  alt="reddotz20" />&nbsp;&nbsp;
   <img width="56%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reddotz20&theme=github_dark" alt="reddotz20" />
@@ -83,7 +85,7 @@
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="45%" src="https://github-profile-trophy.vercel.app/?username=reddotz20&theme=juicyfresh&no-frame=true&row=2&column=3" alt="reddotz20" />
+    <img width="95%" src="https://github-profile-trophy.vercel.app/?username=reddotz20&theme=juicyfresh&no-frame=true&row=1&column=7" alt="reddotz20" />
   </a>
 </p>
 
