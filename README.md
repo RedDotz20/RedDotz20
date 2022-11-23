@@ -38,11 +38,17 @@
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> 
   <img alt="react" width="40" height="40" src="https://vitejs.dev/logo-with-shadow.png" /> 
 </a>&nbsp;&nbsp;
+<a href="https://react-query-v3.tanstack.com/" target="_blank" rel="noreferrer"> 
+  <img alt="react-query" width="40" height="40" src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" /> 
+</a>&nbsp;&nbsp;
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
   <img alt="tailwind" width="40" height="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" /> 
 </a>&nbsp;&nbsp;
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
   <img alt="sass" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" /> 
+</a>&nbsp;&nbsp;
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+  <img alt="nextjs" width="40" height="40" src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" /> 
 </a>&nbsp;&nbsp;
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> 
   <img alt="nodejs" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" /> 
@@ -52,9 +58,6 @@
 </a>&nbsp;&nbsp;
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
   <img alt="figma" width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg">
-</a>&nbsp;&nbsp;
-<a href="https://jestjs.io/" target="_blank" rel="noreferrer">
-  <img alt="jest" width="40" height="40" src="https://cdn.iconscout.com/icon/free/png-256/jest-3521517-2945020.png">
 </a>&nbsp;&nbsp;
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   <img alt="git" width="40" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
