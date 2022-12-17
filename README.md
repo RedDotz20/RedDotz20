@@ -22,6 +22,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-tabangay/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/carlos_tabangay)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/carlos_tabangay)
+[![Discord](https://img.shields.io/badge/Discord-RedDotz-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/516050300965093377)
 
 ### 💻 Languages and Tools:
 
