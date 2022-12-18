@@ -50,6 +50,9 @@
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
   <img alt="sass" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" /> 
 </a>&nbsp;&nbsp;
+<a href="https://mui.com/" target="_blank" rel="noreferrer"> 
+  <img alt="mui" width="40" height="40" src="https://avatars.githubusercontent.com/u/47790158?v=4?s=400" /> 
+</a>&nbsp;&nbsp; 
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
   <img alt="nextjs" width="40" height="40" src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" /> 
 </a>&nbsp;&nbsp;
