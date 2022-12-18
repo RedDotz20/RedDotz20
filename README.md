@@ -29,8 +29,10 @@
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
 [![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.w3schools.com/cpp/)
+[![C++](https://img.shields.io/badge/C%2B%2B-970239?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.w3schools.com/cpp/)
 [![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blu)](https://www.python.org)
+[![TYPESCRIPT](https://img.shields.io/badge/-TypeScript-007BCD?logo=typescript&logoColor=white&style=for-the-badge)](https://www.typescriptlang.org/)
+
 
 <p align="left"> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
