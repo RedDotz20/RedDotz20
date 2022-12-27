@@ -14,7 +14,7 @@
 -   🤔 I’m looking for help with other web frameworks.
 -   🎯 Current Goal: familiarize react hooks
 -   ⚡ Fun fact: My Personality Type is **_INFJ_**.
--    📫 How to reach me: **carlos_tabangay@outlook.com**
+-   📫 How to reach me: **carlos_tabangay@outlook.com**
 
 #### Connect with me:
 
@@ -49,6 +49,9 @@
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
   <img alt="sass" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" /> 
 </a>&nbsp;&nbsp;
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
+  <img alt="bootstrap" width="45" height="40" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" /> 
+</a>&nbsp;&nbsp;
 <a href="https://mui.com/" target="_blank" rel="noreferrer"> 
   <img alt="mui" width="40" height="40" src="https://avatars.githubusercontent.com/u/47790158?v=4?s=400" /> 
 </a>&nbsp;&nbsp; 
@@ -69,9 +72,6 @@
 </a>&nbsp;&nbsp;
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   <img alt="git" width="40" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-</a>&nbsp;&nbsp;
-<a href="https://github.com/" target="_blank" rel="noreferrer">
-  <img alt="github" width="40" height="40" src= "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
 </a>&nbsp;&nbsp;
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
   <img alt="vs-code" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />
