@@ -12,7 +12,7 @@
 -   💬 Ask me about **React, HTML, CSS, JavaScript**.
 -   🤝 Looking forward to collaborate with other projects.
 -   🤔 I’m looking for help with other web frameworks.
--   🎯 Current Goal: familiarize react hooks
+-   🎯 Current Goal: build projects
 -   ⚡ Fun fact: My Personality Type is **_INFJ_**.
 -   📫 How to reach me: **carlos_tabangay@outlook.com**
 
