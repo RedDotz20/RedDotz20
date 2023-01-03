@@ -1,9 +1,13 @@
 [comment]: <img alt="banner" align="center" width="100%" height="40%" src="./images/banner.jpg" />
-<h1 align="center">Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> I'm Carlos Tabangay - aka RedDotz</br><h3 align="center">Aspiring React JS Developer</h3></h1>
+<h1 align="center">Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> I'm Carlos Tabangay - aka RedDotz</br><h3 align="center"><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+  <img alt="html" width="15" height="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" /> 
+</a>React JS Developer</h3></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reddotz20&label=Profile%20views&color=0e75b6&style=flat" alt="reddotz20" width="120px"/> </p>
 
 <a href="https://app.daily.dev/RedDotz"><img align="right" src="https://api.daily.dev/devcards/ceaaf22b68fa4026a2861923baa12f42.png?r=flo" width="30%" alt="Carlos Tabangay's Dev Card"/></a>
+
+
 
 ### I'm a Computer Science student and self-taught developer.
 
