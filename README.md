@@ -84,20 +84,21 @@
 ---
 
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=reddotz20&theme=highcontrast"  alt="reddotz20" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=reddotz20&show_icons=true&locale=en&theme=highcontrast"  alt="reddotz20" />
+  <img width="49.8%" src="https://github-readme-streak-stats.herokuapp.com/?user=reddotz20&theme=dark"  alt="reddotz20" />
+  <img width="49.8%" src="https://github-readme-stats.vercel.app/api?username=reddotz20&show_icons=true&locale=en&theme=dark"  alt="reddotz20" />
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RedDotz20&bg_color=000000&color=37ff00&line=e6f116&point=04ff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RedDotz20&bg_color=151515&color=FFFFFF&line=f0db4f&point=2ade2a&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=reddotz20&show_icons=true&locale=en&layout=compact&theme=highcontrast"  alt="reddotz20" />&nbsp;&nbsp;
-  <img width="56%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reddotz20&theme=github_dark" alt="reddotz20" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=reddotz20&show_icons=true&locale=en&layout=compact&theme=dark"  alt="reddotz20" />
 </p>
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="95%" src="https://github-profile-trophy.vercel.app/?username=reddotz20&theme=onestar&no-frame=true&row=1&column=7" alt="reddotz20" />
+    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=reddotz20&theme=onestar&no-frame=true&row=1&column=7" alt="reddotz20" />
   </a>
 </p>
 
