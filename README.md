@@ -7,8 +7,6 @@
 
 <a href="https://app.daily.dev/RedDotz"><img align="right" src="https://api.daily.dev/devcards/ceaaf22b68fa4026a2861923baa12f42.png?r=flo" width="30%" alt="Carlos Tabangay's Dev Card"/></a>
 
-
-
 ### I'm a Computer Science student and self-taught developer.
 
 -   ⚒ I’m currently working on my **Front-End Skills**.
@@ -22,10 +20,17 @@
 
 #### Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-tabangay/)
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-tabangay/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/carlos_tabangay)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/carlos_tabangay)
-[![Discord](https://img.shields.io/badge/Discord-RedDotz-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/516050300965093377)
+[![Discord](https://img.shields.io/badge/Discord-RedDotz-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/516050300965093377) -->
+
+[![LinkedIn](https://img.shields.io/badge/carlos_tabangay-0077B5?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-tabangay/)
+[![Instagram](https://img.shields.io/badge/carlos_tabangay-E4405F?&logo=instagram&logoColor=white)](https://instagram.com/carlos_tabangay)
+[![Facebook](https://img.shields.io/badge/CarlosTabangay-2374E1?logo=facebook&logoColor=white)](https://www.facebook.com/CarlosTabangayRedDotz20/)
+[![Twitter](https://img.shields.io/badge/carlos_tabangay-1DA1F2?&logo=twitter&logoColor=white)](https://twitter.com/carlos_tabangay)
+[![Discord](https://img.shields.io/badge/RedDotz-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/516050300965093377)
+
 
 #### Top Technologies:
 
@@ -84,8 +89,8 @@
 ---
 
 <p align="center">
-  <img width="49.8%" src="https://github-readme-streak-stats.herokuapp.com/?user=reddotz20&theme=dark"  alt="reddotz20" />
-  <img width="49.8%" src="https://github-readme-stats.vercel.app/api?username=reddotz20&show_icons=true&locale=en&theme=dark"  alt="reddotz20" />
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=reddotz20&theme=dark"  alt="reddotz20" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=reddotz20&show_icons=true&locale=en&theme=dark"  alt="reddotz20" />
 </p>
 
 
