@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reddotz20&label=Profile%20views&color=0e75b6&style=flat" alt="reddotz20" width="120px"/> </p>
 
-<a href="https://app.daily.dev/RedDotz"><img align="right" src="https://api.daily.dev/devcards/ceaaf22b68fa4026a2861923baa12f42.png?r=flo" width="30%" alt="Carlos Tabangay's Dev Card"/></a>
+<a href="https://app.daily.dev/RedDotz"><img align="right" src="https://api.daily.dev/devcards/ceaaf22b68fa4026a2861923baa12f42.png?r=flo" width="27%" alt="Carlos Tabangay's Dev Card"/></a>
 
 ### I'm a Computer Science student and self-taught developer.
 
@@ -34,6 +34,8 @@
 
 #### Top Technologies:
 
+[![My Skills](https://skillicons.dev/icons?i=react,typescript,js,vite,html,css,python,cpp,tailwind,sass,bootstrap,materialui,emotion,nextjs,nodejs,express,mongodb,mysql,figma,git,bash,vscode,md)](https://skillicons.dev)
+<!-- 
 [![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
 [![Javascript](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 [![Typescript](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
@@ -84,7 +86,7 @@
 </a>&nbsp;&nbsp;
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
   <img alt="vs-code" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />
-</a>&nbsp;&nbsp;
+</a>&nbsp;&nbsp; -->
 
 ---
 
