@@ -34,7 +34,7 @@
 
 #### Top Technologies:
 
-[![My Skills](https://skillicons.dev/icons?i=react,typescript,js,vite,html,css,python,cpp,tailwind,sass,bootstrap,materialui,emotion,nextjs,nodejs,express,mongodb,mysql,figma,git,bash,vscode,md)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,typescript,js,vite,webpack,html,css,python,cpp,tailwind,sass,bootstrap,materialui,emotion,nextjs,nodejs,express,mongodb,mysql,figma,git,github,bash,vscode,md)](https://skillicons.dev)
 <!-- 
 [![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
 [![Javascript](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
