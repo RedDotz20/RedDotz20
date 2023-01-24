@@ -20,73 +20,15 @@
 
 #### Connect with me:
 
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-tabangay/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/carlos_tabangay)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/carlos_tabangay)
-[![Discord](https://img.shields.io/badge/Discord-RedDotz-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/516050300965093377) -->
-
 [![LinkedIn](https://img.shields.io/badge/carlos_tabangay-0077B5?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-tabangay/)
 [![Instagram](https://img.shields.io/badge/carlos_tabangay-E4405F?&logo=instagram&logoColor=white)](https://instagram.com/carlos_tabangay)
 [![Facebook](https://img.shields.io/badge/CarlosTabangay-2374E1?logo=facebook&logoColor=white)](https://www.facebook.com/CarlosTabangayRedDotz20/)
 [![Twitter](https://img.shields.io/badge/carlos_tabangay-1DA1F2?&logo=twitter&logoColor=white)](https://twitter.com/carlos_tabangay)
 [![Discord](https://img.shields.io/badge/RedDotz-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/516050300965093377)
 
-
 #### Top Technologies:
 
-[![My Skills](https://skillicons.dev/icons?i=react,typescript,js,vite,webpack,html,css,python,cpp,tailwind,sass,bootstrap,materialui,emotion,nextjs,nodejs,express,mongodb,mysql,figma,git,github,bash,vscode,md)](https://skillicons.dev)
-<!-- 
-[![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
-[![Javascript](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
-[![Typescript](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
-[![C++](https://img.shields.io/badge/-C%2B%2B-970239?style=for-the-badge&labelColor=black&logo=c%2B%2B&logoColor=970239)](#)
-[![Python](https://img.shields.io/badge/-Python-FFD43B?style=for-the-badge&labelColor=black&logo=python&logoColor=blu)](#)
-  
-<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
-  <img alt="html" width="40" height="40" src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png" /> 
-</a>&nbsp;&nbsp;
-<a href="https://www.w3schools.com/css/css_intro.asp" target="_blank" rel="noreferrer"> 
-  <img alt="css" width="40" height="40" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" /> 
-</a>&nbsp;&nbsp;
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> 
-  <img alt="react" width="40" height="40" src="https://vitejs.dev/logo-with-shadow.png" /> 
-</a>&nbsp;&nbsp;
-<a href="https://react-query-v3.tanstack.com/" target="_blank" rel="noreferrer"> 
-  <img alt="react-query" width="40" height="40" src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" /> 
-</a>&nbsp;&nbsp;
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-  <img alt="tailwind" width="40" height="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" /> 
-</a>&nbsp;&nbsp;
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
-  <img alt="sass" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" /> 
-</a>&nbsp;&nbsp;
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
-  <img alt="bootstrap" width="45" height="40" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" /> 
-</a>&nbsp;&nbsp;
-<a href="https://mui.com/" target="_blank" rel="noreferrer"> 
-  <img alt="mui" width="40" height="40" src="https://avatars.githubusercontent.com/u/47790158?v=4?s=400" /> 
-</a>&nbsp;&nbsp; 
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-  <img alt="nextjs" width="40" height="40" src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" /> 
-</a>&nbsp;&nbsp;
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> 
-  <img alt="nodejs" width="40" height="40" src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png" /> 
-</a>&nbsp;&nbsp;
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-  <img alt="nodejs" width="40" height="40" src="http://www.lafabriquedecode.com/blog/wp-content/uploads/2013/04/mongo_logo.png" /> 
-</a>&nbsp;&nbsp;
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-  <img alt="mysql" width="40" height="40" src="https://pngimg.com/uploads/mysql/mysql_PNG19.png" /> 
-</a>&nbsp;&nbsp;
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-  <img alt="figma" width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg">
-</a>&nbsp;&nbsp;
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img alt="git" width="40" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-</a>&nbsp;&nbsp;
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-  <img alt="vs-code" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />
-</a>&nbsp;&nbsp; -->
+[![My Skills](https://skillicons.dev/icons?i=react,typescript,js,vite,webpack,html,css,python,cpp,tailwind,sass,bootstrap,materialui,emotion,nextjs,nodejs,express,mongodb,mysql,figma,git,github,bash,vscode,md,discord,pr,ps)](https://skillicons.dev)
 
 ---
 
