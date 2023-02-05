@@ -32,9 +32,9 @@
 
 ---
 
-<div>
-  <img align="left" widtH="510" src="https://github-readme-streak-stats.herokuapp.com/?user=reddotz20&theme=dark" alt="reddotz20" />
-  <img widtH="480" src="https://github-readme-stats.vercel.app/api?username=reddotz20&show_icons=true&locale=en&include_all_commits=true&count_private=true&ring_color=fa8b00&theme=dark" alt="reddotz20" />
+<div align="center">
+  <img widtH="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=reddotz20&theme=dark" alt="reddotz20" />
+  <img widtH="47.3%" src="https://github-readme-stats.vercel.app/api?username=reddotz20&show_icons=true&locale=en&include_all_commits=true&count_private=true&ring_color=fa8b00&theme=dark" alt="reddotz20" />
 </div>
 
 
