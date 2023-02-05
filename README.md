@@ -13,8 +13,8 @@
 -   🌱 I’m currently learning React Query and Next JS.
 -   💬 Ask me about **React, HTML, CSS, JavaScript**.
 -   🤝 Looking forward to collaborate with other projects.
--   🤔 I’m looking for help with other web frameworks.
--   🎯 Current Goal: build projects
+-   🤔 I’m looking for help with other Web Frameworks and Tools.
+-   🎯 Current Goal: Build and Deploy projects
 -   ⚡ Fun fact: My Personality Type is **_INFJ_**.
 -   📫 How to reach me: **carlos_tabangay@outlook.com**
 
@@ -32,17 +32,17 @@
 
 ---
 
+<div>
+  <img align="left" widtH="510" src="https://github-readme-streak-stats.herokuapp.com/?user=reddotz20&theme=dark" alt="reddotz20" />
+  <img widtH="480" src="https://github-readme-stats.vercel.app/api?username=reddotz20&show_icons=true&locale=en&include_all_commits=true&count_private=true&ring_color=fa8b00&theme=dark" alt="reddotz20" />
+</div>
+
+
+[![activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RedDotz20&bg_color=151515&color=FFFFFF&line=f0db4f&point=2ade2a&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 <p align="center">
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=reddotz20&theme=dark"  alt="reddotz20" />
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=reddotz20&show_icons=true&locale=en&theme=dark"  alt="reddotz20" />
-</p>
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RedDotz20&bg_color=151515&color=FFFFFF&line=f0db4f&point=2ade2a&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=reddotz20&show_icons=true&locale=en&layout=compact&theme=dark"  alt="reddotz20" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=reddotz20&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=10&card_width=400" alt="reddotz20" />
 </p>
 
 <p align="center"> 
@@ -50,5 +50,3 @@
     <img width="100%" src="https://github-profile-trophy.vercel.app/?username=reddotz20&theme=onestar&no-frame=true&row=1&column=7" alt="reddotz20" />
   </a>
 </p>
-
----
