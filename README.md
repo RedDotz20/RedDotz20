@@ -42,8 +42,8 @@
 
 
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=tabangay0607&unique={true|1|on|yes}&count=3&width=400" alt="spotify" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=reddotz20&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=10&card_width=400" alt="reddotz20" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=tabangay0607&unique={true|1|on|yes}&count=3" alt="spotify" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=reddotz20&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=10" alt="reddotz20" />
 </p>
 
 <p align="center"> 
