@@ -2,9 +2,7 @@
 
 <h1>Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> I'm Carlos Tabangay | aka RedDotz 💻☕</h1>
 
-
-
-<a href="https://app.daily.dev/RedDotz"><img align="right" src="https://api.daily.dev/devcards/ceaaf22b68fa4026a2861923baa12f42.png?r=flo" width="27%" alt="Carlos Tabangay's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/RedDotz"><img align="right" src="https://api.daily.dev/devcards/ceaaf22b68fa4026a2861923baa12f42.png?r=flo" width="27%" alt="Carlos Tabangay's Dev Card"/></a> -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=700&color=00E7F7&vCenter=true&width=685&height=20&lines=I'm+a+Computer+Science+Student+and+self-taught+developer;React+JS+%7C+Node+JS+Developer)](https://git.io/typing-svg)
 
