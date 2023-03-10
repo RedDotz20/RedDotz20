@@ -27,7 +27,7 @@
 
 #### Top Technologies:
 
-[![My Skills](https://skillicons.dev/icons?i=react,typescript,js,html,css,vite,webpack,python,cpp,java,tailwind,sass,bootstrap,materialui,emotion,nextjs,nodejs,express,mongodb,mysql,postman,figma,git,github,bash,vscode,md)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,typescript,js,html,css,vite,webpack,python,cpp,java,tailwind,sass,bootstrap,materialui,emotion,nextjs,nodejs,express,mongodb,mysql,sequelize,postman,figma,git,github,bash,vscode,md)](https://skillicons.dev)
 
 ---
 
