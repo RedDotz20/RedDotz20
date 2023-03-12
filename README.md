@@ -36,7 +36,7 @@
   <img widtH="47.3%" src="https://github-readme-stats.vercel.app/api?username=reddotz20&show_icons=true&locale=en&include_all_commits=true&count_private=true&ring_color=fa8b00&theme=dark" alt="reddotz20" />
 </div>
 
-[![activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RedDotz20&bg_color=151515&color=FFFFFF&line=f0db4f&point=2ade2a&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RedDotz20&bg_color=151515&color=FFFFFF&line=f0db4f&point=2ade2a&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
