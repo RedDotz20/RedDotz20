@@ -38,17 +38,18 @@
 
 <!-- [![activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RedDotz20&bg_color=151515&color=FFFFFF&line=f0db4f&point=2ade2a&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
+<p align="center">
+  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=reddotz20&show_icons=true&locale=en&theme=dark&layout=compact&langs_count=10" alt="reddotz20" />
+  <img width="580" src="https://spotify-github-profile.vercel.app/api/view?uid=tabangay0607&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true">
+</p>
+
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img width="100%" src="https://github-profile-trophy.vercel.app/?username=reddotz20&theme=onestar&no-frame=true&row=1&column=7" alt="reddotz20" />
   </a>
 </p>
 
-<p align="center">
-  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=reddotz20&show_icons=true&locale=en&theme=dark&layout=compact&langs_count=10" alt="reddotz20" />
-</p>
-
-<p align="center">
+<!-- <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=tabangay0607&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=false" alt="spotify-github-profile" href="https://spotify-github-profile.vercel.app/api/view?uid=tabangay0607&redirect=true">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=tabangay0607&unique={true|1|on|yes}&count=7&width=300" alt="spotify" />
-</p>
+</p> -->
