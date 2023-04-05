@@ -40,7 +40,8 @@
 
 <p align="center">
   <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=reddotz20&show_icons=true&locale=en&theme=dark&layout=compact&langs_count=10" alt="reddotz20" />
-  <img width="400" src="https://spotify-github-profile.vercel.app/api/view?uid=tabangay0607&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=tabangay0607&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" height="175" />
+
 </p>
 
 <p align="center"> 
