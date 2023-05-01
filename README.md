@@ -2,9 +2,9 @@
 
 <h1>Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> I'm Carlos Tabangay | aka RedDotz 💻☕</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=700&color=00E7F7&vCenter=true&width=685&height=20&lines=I'm+a+Computer+Science+Student+and+self-taught+developer;React+JS+%7C+Node+JS+Developer)](https://git.io/typing-svg)
-
 <a href="https://app.daily.dev/RedDotz"><img align="right" src="https://api.daily.dev/devcards/ceaaf22b68fa4026a2861923baa12f42.png?r=flo" width="27%" alt="Carlos Tabangay's Dev Card"/></a>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=700&color=00E7F7&vCenter=true&width=685&height=20&lines=I'm+a+Computer+Science+Student+and+self-taught+developer;React+JS+%7C+Node+JS+Developer)](https://git.io/typing-svg)
 
 -   ⚒ I’m currently working on my **Front-End Skills**.
 -   🌱 I’m currently learning React Query and Next JS.
@@ -21,7 +21,7 @@
 
 <div align="left">
   <a href="https://www.codewars.com/users/RedDotz20">
-    <img width="400" src="https://www.codewars.com/users/RedDotz20/badges/large" alt="Codewars badge for RedDotz20">
+    <img width="300" src="https://www.codewars.com/users/RedDotz20/badges/large" alt="Codewars badge for RedDotz20">
   </a>
   <a href="https://leetcode.com/Carlos-Tabangay/">
     <img width="200" src="https://img.shields.io/badge/dynamic/json?style=for-the-    badge&amp;labelColor=black&amp;color=%23ffa116&amp;label=Ranking&amp;query=ranking&amp;url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FCarlos-Tabangay&amp;logo=leetcode&amp;logoColor=yellow" alt="LeetCode badge for user Carlos-Tabangay">
