@@ -33,7 +33,7 @@
 
 <div align="left">
   <a href="https://www.codewars.com/users/RedDotz20">
-    <img  src="https://www.codewars.com/users/RedDotz20/badges/small" alt="Codewars badge for RedDotz20">
+    <img src="https://www.codewars.com/users/RedDotz20/badges/small" alt="Codewars badge for RedDotz20">
   </a>
   <a href="https://leetcode.com/Carlos-Tabangay/">
     <img  src="https://img.shields.io/badge/dynamic/json?style=for-the-    badge&amp;labelColor=black&amp;color=%23ffa116&amp;label=Ranking&amp;query=ranking&amp;url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FCarlos-Tabangay&amp;logo=leetcode&amp;logoColor=yellow" alt="LeetCode badge for user Carlos-Tabangay">
@@ -43,24 +43,27 @@
 ---
 
 <div align="center">
-  <img widtH="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=reddotz20&theme=dark" alt="reddotz20" />
-  <img widtH="47.3%" src="https://github-readme-stats.vercel.app/api?username=reddotz20&show_icons=true&locale=en&include_all_commits=true&count_private=true&ring_color=fa8b00&theme=dark" alt="reddotz20" />
+  <img widtH="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=reddotz20&theme=dark&hide_border=true" alt="reddotz20" />
+  <img widtH="47.3%" src="https://github-readme-stats.vercel.app/api?username=reddotz20&show_icons=true&locale=en&include_all_commits=true&count_private=true&hide_border=true&ring_color=fa8b00&theme=dark&text_color=ffffff" alt="reddotz20" />
 </div>
 
-<!-- [![activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RedDotz20&bg_color=151515&color=FFFFFF&line=f0db4f&point=2ade2a&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-
 <p align="center">
-  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=reddotz20&show_icons=true&locale=en&theme=dark&layout=compact&langs_count=10" alt="reddotz20" />
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=tabangay0607&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" height="140" />
-
+  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=reddotz20&show_icons=true&locale=en&theme=dark&layout=compact&langs_count=10&hide_border=true" alt="reddotz20" />
+  <a href="https://roadmap.sh">
+    <img width="585" src="https://api.roadmap.sh/v1-badge/wide/643cb546e2725773748fabde?variant=dark&roadmaps=react%2Ctypescript%2Cjavascript%2Cnodejs" alt="roadmap.sh">
+  </a>
 </p>
+
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img width="100%" src="https://github-profile-trophy.vercel.app/?username=reddotz20&theme=onestar&no-frame=true&row=1&column=7" alt="reddotz20" />
   </a>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=tabangay0607&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" height="140" />
 </p>
 
+ 
+ 
 <!-- <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=tabangay0607&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=false" alt="spotify-github-profile" href="https://spotify-github-profile.vercel.app/api/view?uid=tabangay0607&redirect=true">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=tabangay0607&unique={true|1|on|yes}&count=7&width=300" alt="spotify" />
