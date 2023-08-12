@@ -48,9 +48,9 @@
 </div>
 
 <p align="center">
-  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=reddotz20&show_icons=true&locale=en&theme=dark&layout=compact&langs_count=10&hide_border=true" alt="reddotz20" />
+  <img width="33.2%" src="https://github-readme-stats.vercel.app/api/top-langs?username=reddotz20&show_icons=true&locale=en&theme=dark&layout=compact&langs_count=10&hide_border=true" alt="reddotz20" />
   <a href="https://roadmap.sh">
-    <img width="585" src="https://api.roadmap.sh/v1-badge/wide/643cb546e2725773748fabde?variant=dark&roadmaps=react%2Ctypescript%2Cjavascript%2Cnodejs" alt="roadmap.sh">
+    <img width="55%" src="https://api.roadmap.sh/v1-badge/wide/643cb546e2725773748fabde?variant=dark&roadmaps=react%2Ctypescript%2Cjavascript%2Cnodejs" alt="roadmap.sh">
   </a>
 </p>
 
