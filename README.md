@@ -29,14 +29,14 @@
 
 #### Top Technologies:
 
-[![My Skills](https://skillicons.dev/icons?i=react,typescript,js,html,css,vite,webpack,php,python,cpp,java,tailwind,sass,bootstrap,materialui,emotion,nextjs,nodejs,express,mongodb,mysql,sequelize,postman,figma,git,github,bash,vscode,md)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,typescript,js,html,css,vite,webpack,dart,androidstudio,php,python,cpp,java,tailwind,sass,bootstrap,materialui,emotion,nextjs,nodejs,express,mongodb,mysql,netlify,sequelize,postman,figma,git,github,githubactions,bash,vscode,md)](https://skillicons.dev)
 
 <div align="left">
   <a href="https://www.codewars.com/users/RedDotz20">
     <img src="https://www.codewars.com/users/RedDotz20/badges/small" alt="Codewars badge for RedDotz20">
   </a>
   <a href="https://leetcode.com/Carlos-Tabangay/">
-    <img  src="https://img.shields.io/badge/dynamic/json?style=for-the-    badge&amp;labelColor=black&amp;color=%23ffa116&amp;label=Ranking&amp;query=ranking&amp;url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FCarlos-Tabangay&amp;logo=leetcode&amp;logoColor=yellow" alt="LeetCode badge for user Carlos-Tabangay">
+    <img  src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&amp;labelColor=black&amp;color=%23ffa116&amp;label=Ranking&amp;query=ranking&amp;url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FCarlos-Tabangay&amp;logo=leetcode&amp;logoColor=yellow" alt="LeetCode badge for user Carlos-Tabangay">
   </a>
 </div>
 
