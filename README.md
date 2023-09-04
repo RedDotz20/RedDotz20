@@ -29,7 +29,7 @@
 
 #### Top Technologies:
 
-[![My Skills](https://skillicons.dev/icons?i=react,typescript,js,html,css,vite,webpack,dart,androidstudio,php,python,cpp,java,tailwind,sass,bootstrap,materialui,emotion,nextjs,nodejs,express,mongodb,mysql,netlify,sequelize,postman,figma,git,github,githubactions,bash,vscode,md)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,typescript,js,html,css,vite,nextjs,webpack,dart,androidstudio,php,python,cpp,java,tailwind,sass,bootstrap,materialui,emotion,nodejs,express,mongodb,mysql,netlify,vercel,sequelize,postman,figma,git,github,githubactions,bash,vscode,md)](https://skillicons.dev)
 
 <div align="left">
   <a href="https://www.codewars.com/users/RedDotz20">
