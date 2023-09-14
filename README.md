@@ -19,7 +19,7 @@
 
 ![](https://komarev.com/ghpvc/?username=reddotz20&label=Profile%20views&color=0e75b6&style=flat)
 
-#### Connect with me:
+### 🔗 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/carlos_tabangay-0077B5?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-tabangay/)
 [![Instagram](https://img.shields.io/badge/carlos_tabangay-E4405F?&logo=instagram&logoColor=white)](https://instagram.com/carlos_tabangay)
