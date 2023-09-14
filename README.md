@@ -27,7 +27,14 @@
 [![Twitter](https://img.shields.io/badge/carlos_tabangay-1DA1F2?&logo=twitter&logoColor=white)](https://twitter.com/carlos_tabangay)
 [![Discord](https://img.shields.io/badge/RedDotz-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/516050300965093377)
 
-#### Top Technologies:
+## 🌏 My Personal Tech Communities
+
+Join my tech communities for some exciting chats!
+
+[![Community](https://discord.com/api/guilds/996276138588524624/widget.png?style=banner2)](https://discord.com/servers/filipino-web-development-peers-996276138588524624) 
+[![Community](https://discord.com/api/guilds/783587941455757313/widget.png?style=banner2)](https://discord.gg/QJe4wYHwtw) 
+
+## 👨‍💻 Top Technologies:
 
 [![My Skills](https://skillicons.dev/icons?i=react,typescript,js,html,css,vite,nextjs,webpack,dart,androidstudio,php,python,cpp,java,tailwind,sass,bootstrap,materialui,emotion,nodejs,express,mongodb,mysql,netlify,vercel,sequelize,postman,figma,git,github,githubactions,bash,vscode,md)](https://skillicons.dev)
 
