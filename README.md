@@ -1,6 +1,4 @@
-<!-- [comment]: <img alt="banner" align="center" width="100%" height="40%" src="./images/banner.jpg" /> -->
-
-<h1>Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> I'm Carlos Tabangay | aka RedDotz 💻☕</h1>
+# Hi there 👋, I'm Carlos Tabangay | aka RedDotz 💻☕
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=700&color=00E7F7&vCenter=true&width=685&height=20&lines=I'm+a+Computer+Science+Student+and+self-taught+developer;React+JS+%7C+Node+JS+Developer)](https://git.io/typing-svg)
 
@@ -15,7 +13,6 @@
 -   ⚡ Fun fact: My Personality Type is **_INFJ_**.
 -   📫 How to reach me: **carlos_tabangay@outlook.com**
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=reddotz20&label=Profile%20views&color=0e75b6&style=flat" alt="reddotz20" width="120px"/> </p> -->
 
 ![](https://komarev.com/ghpvc/?username=reddotz20&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -61,15 +58,12 @@ Join my tech communities for some exciting chats!
   </a>
 </p>
 
-
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img width="100%" src="https://github-profile-trophy.vercel.app/?username=reddotz20&theme=onestar&no-frame=true&row=1&column=7" alt="reddotz20" />
   </a>
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=tabangay0607&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" height="140" />
 </p>
-
- 
  
 <!-- <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=tabangay0607&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=false" alt="spotify-github-profile" href="https://spotify-github-profile.vercel.app/api/view?uid=tabangay0607&redirect=true">
