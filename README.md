@@ -36,7 +36,7 @@ Join my tech communities for some exciting chats!
 
 ## 👨‍💻 Top Technologies:
 
-[![My Skills](https://skillicons.dev/icons?i=react,typescript,js,html,css,vite,nextjs,webpack,dart,androidstudio,php,python,arduino,cpp,java,tailwind,sass,bootstrap,materialui,emotion,nodejs,express,mongodb,mysql,netlify,vercel,prisma,sequelize,postman,figma,git,github,githubactions,bash,vscode,md)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,typescript,js,html,css,vite,nextjs,webpack,dart,androidstudio,php,python,arduino,cpp,java,tailwind,sass,bootstrap,materialui,emotion,nodejs,express,mongodb,mysql,netlify,firebase,vercel,prisma,sequelize,postman,figma,git,github,githubactions,bash,vscode,md)](https://skillicons.dev)
 
 <div align="left">
   <a href="https://www.codewars.com/users/RedDotz20">
