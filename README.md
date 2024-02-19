@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Carlos Tabangay | aka RedDotz 💻☕
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=700&color=00E7F7&vCenter=true&width=685&height=20&lines=I'm+a+Computer+Science+Student+and+self-taught+developer;React+JS+%7C+Node+JS+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=700&color=c90000&vCenter=true&width=685&height=20&lines=I'm+a+Computer+Science+Student+and+self-taught+developer;React+JS+%7C+Node+JS+Developer)](https://git.io/typing-svg)
 
 <a href="https://app.daily.dev/RedDotz"><img align="right" src="https://api.daily.dev/devcards/ceaaf22b68fa4026a2861923baa12f42.png?r=flo" width="27%" alt="Carlos Tabangay's Dev Card"/></a>
 
@@ -27,12 +27,14 @@
 [![Twitter](https://img.shields.io/badge/carlos_tabangay-1DA1F2?&logo=twitter&logoColor=white)](https://twitter.com/carlos_tabangay)
 [![Discord](https://img.shields.io/badge/RedDotz-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/516050300965093377)
 
+<!--
 ## 🌏 My Personal Tech Communities
 
 Join my tech communities for some exciting chats!
 
 [![Community](https://discord.com/api/guilds/996276138588524624/widget.png?style=banner2)](https://discord.com/servers/filipino-web-development-peers-996276138588524624) 
-[![Community](https://discord.com/api/guilds/783587941455757313/widget.png?style=banner2)](https://discord.gg/QJe4wYHwtw) 
+[![Community](https://discord.com/api/guilds/783587941455757313/widget.png?style=banner2)](https://discord.gg/QJe4wYHwtw)
+-->
 
 ## 👨‍💻 Top Technologies:
 
