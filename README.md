@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=700&color=c90000&vCenter=true&width=685&height=20&lines=I'm+a+Computer+Science+Student+and+self-taught+developer;React+JS+%7C+Node+JS+Developer)](https://git.io/typing-svg)
 
-<a href="https://app.daily.dev/RedDotz"><img align="right" src="https://api.daily.dev/devcards/ceaaf22b68fa4026a2861923baa12f42.png?r=flo" width="27%" alt="Carlos Tabangay's Dev Card"/></a>
+<a href="https://app.daily.dev/reddotz"><img align="right" src="https://api.daily.dev/devcards/v2/rBG65iVb7ApZeQasaRj5c.png?r=yt3&type=default" width="27%" alt="Carlos Tabangay's Dev Card"/></a>
 
 -   ⚒ I’m currently working on my **Front-End Skills**.
 -   🌱 I’m currently learning Next JS and Server Side Rendering.
