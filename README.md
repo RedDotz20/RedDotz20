@@ -4,13 +4,13 @@
 
 <a href="https://app.daily.dev/reddotz"><img align="right" src="https://api.daily.dev/devcards/v2/rBG65iVb7ApZeQasaRj5c.png?r=yt3&type=default" width="27%" alt="Carlos Tabangay's Dev Card"/></a>
 
--   ⚒ I’m currently working on my **Front-End Skills**.
--   🌱 I’m currently learning Next JS and Server Side Rendering.
+-   ⚒ I’m currently working on my **React Front-End Skills**.
+-   🌱 I’m currently learning API's and Back-End Development.
 -   💬 Ask me about **React, HTML, CSS, JavaScript/TypeScript**.
 -   🤝 Looking forward to collaborate with other projects.
 -   🤔 I’m looking for help with other Web Frameworks and Tools.
 -   🎯 Current Goal: Create, Build and Deploy projects
--   ⚡ Fun fact: My Personality Type is **_INFJ_**.
+-   ⚡ Fun fact: My Personality Type is **_INTJ_**.
 -   📫 How to reach me: **carlos_tabangay@outlook.com**
 
 
