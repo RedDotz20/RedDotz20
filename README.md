@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=700&color=c90000&vCenter=true&width=685&height=20&lines=I'm+a+Computer+Science+Student+and+self-taught+developer;React+JS+%7C+Node+JS+Developer)](https://git.io/typing-svg)
 
-<a href="https://app.daily.dev/reddotz"><img align="right" src="https://api.daily.dev/devcards/v2/rBG65iVb7ApZeQasaRj5c.png?r=yt3&type=default" width="27%" alt="Carlos Tabangay's Dev Card"/></a>
+<a href="https://app.daily.dev/reddotz"><img align="right" src="https://api.daily.dev/devcards/v2/rBG65iVb7ApZeQasaRj5c.png?type=default&r=oaw" width="27%" alt="Carlos Tabangay's Dev Card"/></a>
 
 -   ⚒ I’m currently working on my **React Front-End Skills**.
 -   🌱 I’m currently learning API's and Back-End Development.
@@ -13,11 +13,9 @@
 -   ⚡ Fun fact: My Personality Type is **_INTJ_**.
 -   📫 How to reach me: **carlos_tabangay@outlook.com**
 
-
 !["Profile Views](https://komarev.com/ghpvc/?username=reddotz20&label=Profile%20views&color=0e75b6&style=flat)
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/carlostabangay)
-
 
 ### 🔗 Connect with me:
 
