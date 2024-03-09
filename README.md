@@ -11,19 +11,18 @@
 -   🤔 I’m looking for help with other Web Frameworks and Tools.
 -   🎯 Current Goal: Create, Build and Deploy projects
 -   ⚡ Fun fact: My Personality Type is **_INTJ_**.
--   📫 How to reach me: **carlos_tabangay@outlook.com**
+-   📫 How to reach me: carlos_tabangay@outlook.com
 
-!["Profile Views](https://komarev.com/ghpvc/?username=reddotz20&label=Profile%20views&color=0e75b6&style=flat)
+!["Profile Views](https://komarev.com/ghpvc/?username=reddotz20&label=Profile%20views&color=0e75b6&style=flat-square)
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/carlostabangay)
 
 ### 🔗 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/carlos_tabangay-0077B5?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-tabangay/)
-[![Instagram](https://img.shields.io/badge/carlos_tabangay-E4405F?&logo=instagram&logoColor=white)](https://instagram.com/carlos_tabangay)
-[![Facebook](https://img.shields.io/badge/CarlosTabangay-2374E1?logo=facebook&logoColor=white)](https://www.facebook.com/CarlosTabangayRedDotz20/)
-[![Twitter](https://img.shields.io/badge/carlos_tabangay-1DA1F2?&logo=twitter&logoColor=white)](https://twitter.com/carlos_tabangay)
-[![Discord](https://img.shields.io/badge/RedDotz-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/516050300965093377)
+[![LinkedIn](https://img.shields.io/badge/carlos_tabangay-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-tabangay/)
+[![Twitter](https://img.shields.io/badge/reddotz20-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/reddotz20)
+[![Discord](https://img.shields.io/badge/RedDotz-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/516050300965093377)
+[![Email](https://img.shields.io/badge/carlos__tabangay%40outlook.com-gray?style=for-the-badge&logo=microsoft-outlook&link=carlos_tabangay%40outlook.com)](mailto:carlos_tabangay@outlook.com)
 
 <!--
 ## 🌏 My Personal Tech Communities
@@ -40,10 +39,10 @@ Join my tech communities for some exciting chats!
 
 <div align="left">
   <a href="https://www.codewars.com/users/RedDotz20">
-    <img src="https://www.codewars.com/users/RedDotz20/badges/small" alt="Codewars badge for RedDotz20">
+    <img src="https://www.codewars.com/users/RedDotz20/badges/small" alt="Codewars badge for RedDotz20" />
   </a>
   <a href="https://leetcode.com/Carlos-Tabangay/">
-    <img  src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&amp;labelColor=black&amp;color=%23ffa116&amp;label=Ranking&amp;query=ranking&amp;url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FCarlos-Tabangay&amp;logo=leetcode&amp;logoColor=yellow" alt="LeetCode badge for user Carlos-Tabangay">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&amp;labelColor=black&amp;color=%23ffa116&amp;label=Ranking&amp;query=ranking&amp;url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FCarlos-Tabangay&amp;logo=leetcode&amp;logoColor=yellow" alt="LeetCode badge for user Carlos-Tabangay" />
   </a>
 </div>
 
