@@ -19,10 +19,15 @@
 
 ### 🔗 Connect with me:
 
+<!--
 [![LinkedIn](https://img.shields.io/badge/carlos_tabangay-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-tabangay/)
 [![Twitter](https://img.shields.io/badge/reddotz20-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/reddotz20)
 [![Discord](https://img.shields.io/badge/RedDotz-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/516050300965093377)
 [![Email](https://img.shields.io/badge/carlos__tabangay%40outlook.com-gray?style=for-the-badge&logo=microsoft-outlook&link=carlos_tabangay%40outlook.com)](mailto:carlos_tabangay@outlook.com)
+-->
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos%20Tabangay-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-tabangay/)
+[![Email](https://img.shields.io/badge/carlos.tabangay.dev%40gmail.com-gray?style=flat&logo=gmail)](mailto:carlos.tabangay.dev@gmail.com)
 
 <!--
 ## 🌏 My Personal Tech Communities
