@@ -4,13 +4,12 @@
 
 <a href="https://app.daily.dev/reddotz"><img align="right" src="https://api.daily.dev/devcards/v2/rBG65iVb7ApZeQasaRj5c.png?type=default&r=oaw" width="27%" alt="Carlos Tabangay's Dev Card"/></a>
 
--   ⚒ I’m currently working on my **React Front-End Skills**.
--   🌱 I’m currently learning API's and Back-End Development.
+-   ⚒ Currently working on my **Full-Stack Development Skills**.
+-   🌱 I’m currently learning AI Tools and Dev-Ops.
 -   💬 Ask me about **React, HTML, CSS, JavaScript/TypeScript**.
 -   🤝 Looking forward to collaborate with other projects.
 -   🤔 I’m looking for help with other Web Frameworks and Tools.
 -   🎯 Current Goal: Create, Build and Deploy projects
--   ⚡ Fun fact: My Personality Type is **_INTJ_**.
 -   📫 How to reach me: carlos.tabangay.dev@gmail.com
 
 !["Profile Views](https://komarev.com/ghpvc/?username=reddotz20&label=Profile%20views&color=0e75b6&style=flat-square)
