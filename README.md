@@ -6,6 +6,7 @@
 
 <a href="https://app.daily.dev/reddotz"><img align="right" src="https://api.daily.dev/devcards/v2/rBG65iVb7ApZeQasaRj5c.png?type=default&r=oaw" width="27%" alt="Carlos Tabangay's Dev Card"/></a>
 
+<!--
 -   ⚒ Currently working on my **Full-Stack Development Skills**.
 -   🌱 I’m currently learning AI Tools and Dev-Ops.
 -   💬 Ask me about **Front-end development topics**.
@@ -13,14 +14,24 @@
 -   🤔 I’m looking for help with other Web Frameworks and Tools.
 -   🎯 Current Goal: Create, Build and Deploy projects
 -   📫 How to reach me: carlos.tabangay.dev@gmail.com
+-->
+
+- 💻 Full-stack software developer specializing in React and TypeScript  
+- 🧱 Focused on clean architecture and maintainable front-end systems  
+- 🎨 Builds responsive, accessible, and performance-oriented user interfaces  
+- 🔌 Experience developing back-end services with Node.js and APIs  
+- 🧪 Applies best practices in code quality and long-term maintainability  
+- ⚡ Strong interest in front-end performance and developer experience  
+- 🌱 Actively learning AI-assisted development and DevOps fundamentals  
+- 🛠️ Proficient with modern tooling, Git, and collaborative workflows  
+- 🤝 Comfortable working in team-based and shared code environments  
+- 📫 Contact: carlos.tabangay.dev@gmail.com
 
 <!--
 !["Profile Views](https://komarev.com/ghpvc/?username=reddotz20&label=Profile%20views&color=0e75b6&style=flat-square)
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/carlostabangay)
 -->
-<br/>
-<br/>
 
 ### 🔗 Connect with me:
 
